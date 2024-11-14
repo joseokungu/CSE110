@@ -1,0 +1,56 @@
+
+Current date:  2024-09-21
+Width = 25.0
+Aspect ratio of the tire is = 26.0
+Diameter of the wheel is = 27.0
+Volume of the tire is = 0.35
+Current date:  2024-09-21
+Width = 185.0
+Aspect ratio of the tire is = 50.0
+Diameter of the wheel is = 14.0
+Volume of the tire is = 24.09
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 185.0
+Aspect ratio of the tire is = 50.0
+Diameter of the wheel is = 14.0
+Volume of the tire is = 24.09
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 205.0
+Aspect ratio of the tire is = 60.0
+Diameter of the wheel is = 15.0
+Volume of the tire is = 39.92
+Current date:  2024-09-21
+Width = 105.0
+Aspect ratio of the tire is = 59.0
+Diameter of the wheel is = 34.0
+Volume of the tire is = 18.91
